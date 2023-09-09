@@ -92,7 +92,7 @@
 @media screen and (max-width:380px){
     .box{
         height: 84vh;
-        top:-1.5%;
+        top: -2%;
     }
     .weatherInfo{
         width:60%;
