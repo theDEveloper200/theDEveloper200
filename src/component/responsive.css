@@ -90,6 +90,9 @@
     } 
 } 
 @media screen and (max-width:380px){
+    .box{
+        height: 84vh;
+    }
     .weatherInfo{
         width:60%;
     }
