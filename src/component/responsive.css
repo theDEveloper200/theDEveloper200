@@ -1,0 +1,120 @@
+
+@media screen and (max-width:1600px){
+    
+    .search{
+        width:20.5%;
+    }
+}
+@media screen and (max-width:1470px){
+    .box{
+        width:26%;
+    }
+    .search{
+        width:24%;
+    }
+}
+@media screen and (max-width:1295px){
+    .box{
+        width:30%;
+    }
+    .search{
+        width:28%;
+    }
+}
+@media screen and (max-width:1190px){
+    .box{
+        width:35%;
+    }
+    .search{
+        width:33%;
+    }
+}
+@media screen and (max-width:930px){
+    .box{
+        width:42%;
+        left: 26%;
+    }
+    .search{
+        width:40%;
+        left: 28%;
+    }
+}
+@media screen and (max-width:775px){
+    .box{
+        width:50%;
+        left: 23%;
+    }
+    .search{
+        width:47%;
+        left: 26%;
+    }
+} 
+@media screen and (max-width:655px){
+    .box{
+        width:58%;
+        left: 20%;
+    }
+    .search{
+        width:55%;
+        left: 23%;
+    }
+} 
+@media screen and (max-width:565px){
+    .box {
+        width: 68%;
+        left: 15%;
+    }
+    .search{
+        width:64%;
+        left: 19%;
+    }
+} 
+@media screen and (max-width:480px){
+    .box {
+        width: 78%;
+        left: 9%;
+    }  
+    .search{
+        width:72%;
+        left: 14%;
+    }  
+} 
+@media screen and (max-width:420px){
+    .box {
+        width: 85%;
+        left: 5%;
+    }   
+    .search {
+        width: 80%;
+        left: 10%;
+    } 
+} 
+@media screen and (max-width:380px){
+    .weatherInfo{
+        width:60%;
+    }
+    span{
+        font-size: 46px;
+    }
+    .weatherCondition{
+        font-size: 40px;
+    } 
+    .icon i {
+        height: 70px;
+        top:25%;
+        margin: 0;
+    }
+    .temp-info-minmax{
+        margin: 0;
+    }  
+    .another-extra-info {
+        margin: 0;
+    }
+    p{
+        width:36px;
+    }
+    .extra-leftside-info{
+        font-size: 14.5px;
+    }
+} 
+
